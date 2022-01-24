@@ -1,4 +1,4 @@
-# Anagramas são palavras formadas com as mesmas letras de alguma palavra específica em ordem diferente.
+# Anagramas são palavras formadas com as mesmas letras em ordem diferente.
 
 O programa simplesmente verifica na primeira def se há espaços o que indicaria a presença de uma segunda palavra, portanto não coloque espaço vazio no final da palavra escolhida ou o programa não aceitará 
 
