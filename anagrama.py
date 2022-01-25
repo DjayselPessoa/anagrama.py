@@ -1,5 +1,7 @@
 from folder1.defAnagram import analisando1
 from folder1.defAnagram2 import anagrama
+
+
 active = True
 resultado = ""
 
