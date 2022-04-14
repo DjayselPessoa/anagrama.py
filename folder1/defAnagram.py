@@ -1,6 +1,6 @@
-def analisando1(recebe):
-
-    for i in recebe:
+def analisando1(self, recebe):
+    self.recebe = recebe
+    for i in self.recebe:
         if i == " ":
             umaPalavra = False
             return umaPalavra
